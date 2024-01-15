@@ -1,0 +1,15 @@
+{
+    "nombre":"Angel Ronaldo",
+    "apellidos":"Roa Prada",
+    "identificación":"1100504210",
+    "edad": 24,
+    "fechaNacimiento":"28/11/199",
+    "Dirección":"Calle 16",
+    "estadoCivil":"soltero",
+    "lugarNacimiento":"Malaga",
+    "Hobbies":["programar","Jugar videojuegos","Futbol"],
+    "sexo":"Masculino",
+    "nacionalidad":"Colombiano",
+    "email":["ronaldo991128@gmail.com","angelrroa28@gmail.com"],
+    "celular":"3102919264"
+}
